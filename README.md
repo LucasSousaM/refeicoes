@@ -1,6 +1,6 @@
 # meals
 
-A new Flutter project.
+Projeto destinado a organizar refeições.
 
 ## Getting Started
 
