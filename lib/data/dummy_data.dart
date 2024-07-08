@@ -107,7 +107,7 @@ const DUMMY_MEALS = [
     steps: [
       'Butter one side of the white bread',
       'Layer ham, the pineapple and cheese on the white bread',
-      'Bake the toast for round about 10 minutes in the oven at 200°C'
+      'Bake the toast for round about 10 minutes in the oven at 200°C',
     ],
     isGlutenFree: false,
     isVegan: false,
@@ -129,14 +129,14 @@ const DUMMY_MEALS = [
       '1 Cucumber',
       '1 Onion',
       'Ketchup',
-      '2 Burger Buns'
+      '2 Burger Buns',
     ],
     steps: [
       'Form 2 patties',
       'Fry the patties for c. 4 minutes on each side',
       'Quickly fry the buns for c. 1 minute on each side',
       'Bruch buns with ketchup',
-      'Serve burger with tomato, cucumber and onion'
+      'Serve burger with tomato, cucumber and onion',
     ],
     isGlutenFree: false,
     isVegan: false,
